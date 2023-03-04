@@ -49,3 +49,22 @@ function showResult(BMI){
   displayBMI.style.color = `${rank.color}`;
   result.textContent = `Résultat : ${rank.name}`
 }
+
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
